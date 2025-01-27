@@ -25,6 +25,10 @@ Git comes with a command-line user interface (Git bash), but GUI version is also
 ### If the changes are made remotely:
 - Pull the new version of the files with `git pull`
 
+The three stages of Git can be seen in the diagram below:
+
+![Three stages of Git](https://miro.medium.com/v2/resize:fit:800/1*tl3B9CRamhIw54usIfXubw.png)
+
 ## Common Commands:
 - `git init`: Initialize a new Git repository.
 - `git clone`: Copy an existing repository to your local machine.
